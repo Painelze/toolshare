@@ -1,0 +1,53 @@
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+.pub/
+.dart_tool/
+build/
+*.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+dist/
+out/
+release/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter
+flutter_export_environment.sh
+*.jks
+*.p8
+*.mobileprovision
+
+# Backend
+dist/
+.nest*
+*.spec.ts
+
+# Admin
+.next/
+out/
+
+# Docker
+.dockerignore
+
+# Coverage
+coverage/
